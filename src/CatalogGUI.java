@@ -7,7 +7,7 @@ import java.io.*;
 /**
  * This class displays the catalog of the gourmet coffee system.
  *
- * @author author name
+ * @author 佟骜 20154905
  * @version 1.1.0
  * @see Product
  * @see Coffee
